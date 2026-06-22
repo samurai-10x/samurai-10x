@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @samurai-10x
-- 👀 I’m interested securing web3
-- 🌱 I’m currently auditing smart contracts
-- 💞️ I’m looking to collaborate on ...
-- 😄 Pronouns: Dev/De-fi
+- 👋 Hi, I’m Favour
+- 👀 I’m interested building cool things
+- 🌱 I’m currently freelancing
+- 💞️ I’m looking to collaborate on cool projects
+- 😄 Pronouns: Dev
 - ⚡ Fun fact: I eat bugs for dinner
 
 <!---
